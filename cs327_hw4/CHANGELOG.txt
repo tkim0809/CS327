@@ -1,0 +1,7 @@
+Feb 25, 2023: Started to work on the assignment, created the place_water to implement some water element on the map.
+
+Feb 27, 2023: Created a map that stores the trainer element within the map. I had to adjust a little bit of printmap() function to display trainers correctly. Also worked on a method that creates a trainers randomly (hikers, rivals are more likely to be generated).
+
+Feb 28, 2023: worked on the move method for every trainer.
+
+March 1, 2023: kept working on the move method.
