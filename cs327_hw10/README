@@ -1,0 +1,25 @@
+I made a simple airplane shooting game.
+You get to choose which airplane you like to play with on the beginning of the game.
+After you choose which airplane you like to play with, you can choose the difficulty from easy, medium to hard (difficulty is based on the enemy airplane's bullets frequency).
+
+
+
+Game controls are:
+'q': to shoot bullet.
+'w': to use special move/ultimate.
+     Special move/ultimate is following:
+
+     "Skybolt": Shoots bullets in a spread pattern by shooting 5 bullets at once.
+     "Thunderbolt": Temporarily increases bullet speed(currently set for five seconds)
+     "Fireball": Fires homing bullets that track the enemy.
+
+Arrow-up and Arrow-down to move up and down.
+
+
+
+
+To run the game:
+cd or direct to the file that contains the game file, and "make" on terminal.
+Then ./airplane_battle to run.
+
+
