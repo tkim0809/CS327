@@ -1,0 +1,3 @@
+Started project with the professor's code. I had no knowledge on c++ I so learned on online on how to port a c files to c++. Changed the .c extension to .cpp, started to modify/cast pointers to the correct pointer types. I then worked on the fly features and moving to neighbors map feature.
+I also have changed the gate colors to blue so that it's easier to differentiate gates from paths.
+To use the fly feature, hit 'f', input x & y separately followed by enter. 

@@ -1,0 +1,3 @@
+March 23, 2023: downloaded professors code and started to learn how to port a c file to c++
+March 25, 2023: changed all the .c files extension to .cpp, cast pointers to the correct pointer types, implemented a fly function on io.cpp
+March 29, 2023: Worked on moving to neighbors map feature, modified some codes on the game_loop and map_terrain functions.
