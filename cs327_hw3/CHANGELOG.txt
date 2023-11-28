@@ -1,0 +1,4 @@
+Feb 15, 2023: Started project by downloading professors 1.02 assignment solution. Tried to understand his code.
+Feb 17, 2023: Started to write a method that creates player character, '@', that randomly generates on paths, '#'.
+Feb 19, 2023: Started to write a code for dijkstra algorithm by copying and paste professors code and modifying some lines that needed changes in order to get the cost and also wrote a method that calculates weights for different types of trainers in this case hikers and rivals.
+Feb 22, 2023: kept working on the same methods.
