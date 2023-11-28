@@ -1,0 +1,3 @@
+Apr 10: Downloaded professor's code, had a quick look on the dataparse functions and data.h
+Apr 11: Started to work on implementing pokemon pop up function when walking in long grass with 10% possibility. 
+Apr 12: finished the project
