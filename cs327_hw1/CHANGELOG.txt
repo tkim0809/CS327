@@ -1,0 +1,10 @@
+CHANGELOG
+Author: Taewan Kim
+
+Jan 29, 2023: Started project. Created an empty [21][80] grid. Filled the map with '.' Created Boulders on edges.
+
+Jan 30, 2023: Started to work on the algorithms on how to "grow" the seeds. I started to come up with an idea with growing it on circle-shaped. But failed.
+
+Jan 31, 2023: Kept working on to come up with an algorithm. Made an algorithm to grow the seeds in square-shaped. After I came up with an algorithm, I was able to copy paste the algorithm to every method that is supposed to create elements. Created paths after it with pokebuildings.
+
+Feb 1, 2023: worked on the method to fill the empty spots. Started with 100 fill numbers, but it didnt change the way I wanted so changed it to bigger number.
