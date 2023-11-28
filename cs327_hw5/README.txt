@@ -1,0 +1,3 @@
+I first had to get familiar with using the ncurses functions in c language to apply colors and to display the maps using ncurses which was very challenging and hard to write because ncurses is pretty new to me and in order to change the colors and display maps using ncurses i had to modify pretty much every functions.
+After applying colors on the map, I started to work on displaying trainer list and entering poke buildings functions and then worked on the player, character movements. 
+Characters stand still after defeat in battle, which for this assignment they always lose. 

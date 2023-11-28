@@ -1,0 +1,5 @@
+March 14, 2023: tried to get familiar with using ncurses functions to add colors and display it on the terminal. 
+March 16, 2023: added colors on the map and started working on to display maps using ncurses functions.
+March 18, 2023: finished adding trainerlist and enter pokebuildings feature.
+March 19, 2023: started working on the characters movement and battle feature.
+March 22, 2023: finished implementing all the features and also changed the terrains that the pc can not pass through to red, which made it more visible and better to tell.
