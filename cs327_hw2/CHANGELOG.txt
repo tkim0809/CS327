@@ -1,0 +1,5 @@
+Feb 4, 2023: Started working for an assignment, decided to work on this assignment with the code given by professor.
+Feb 5, 2023: Created a 2d array that stores [401][401] maps. Initialized every map to be NULL except the center map(200,200).
+Feb 6, 2023: Worked on to created switch-case by given input by user. I had to study the struct and pointers to understand the code.
+Feb 7, 2023: Wrote a code that creates the new map with given coordinates. I had to create my own version of mapGenerate that takes the n,s,e,w as the gate of new map.
+Feb 8, 2023: Final touch to make the code clean.
