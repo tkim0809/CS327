@@ -1,0 +1,4 @@
+April 1, 2023: downloaded professors code and the data
+April 2, 2023: started to work on the assignment, had to go online and teach myself how to use the files to parse and print
+April 2, 2023: started working on the parse and print function.
+April 6, 2023: finished the assignment
